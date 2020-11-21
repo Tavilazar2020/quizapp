@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "title": "¿Qué indica el <!DOCTYPE html>?",
+    "answers": [
+      {
+        "title": "Es el doctype de un archivo HTML5",
+        "correct": true
+      }
+    ]
+  }
+]

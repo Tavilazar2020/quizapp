@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.lead {
+  text-align: center;
+  margin-top: 2%;
+}
+
+h5 {
+  text-align: center;
+}
+
+.card-img-top {
+  border-style: solid;
+  border-color: black;
+}
+
+.card-img {
+  border-style: solid;
+  border-color: blue;
+}
+
+.jumbotron {
+  height: 25vh;
+  margin-bottom: 1rem;
+}
+
+.container {
+  margin-top: -30px;
+  padding-top: 0;
+}
+
+.form-check {
+  padding: 2%;
+}
